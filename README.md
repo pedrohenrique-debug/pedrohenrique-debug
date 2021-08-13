@@ -7,6 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Pedro-Anime" src="https://i.picasion.com/pic91/353ed8bf1567357671f1904fed270319.gif">
 </div>
   
   ##
